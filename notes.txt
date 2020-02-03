@@ -1,0 +1,7 @@
+npm install 
+node filename.js
+
+remeber to declare variable type
+    Cosnt likely
+    let is scoped inside its "scope"
+
